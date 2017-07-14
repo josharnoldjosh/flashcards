@@ -6,9 +6,7 @@ A complete minimalist flash card app for iOS written in Swift 3.
 
 Check out the screenshots below:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5oNsc"><a href="//imgur.com/5oNsc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-![alt text](https://i.imgur.com/K5l3UjX.png)
+![alt text](https://i.imgur.com/0YAJadn.jpg)
 
 ## License
 
